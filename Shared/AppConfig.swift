@@ -6,7 +6,7 @@ enum AppConfig {
     static let appGroup = "group.com.huy.upsnap"
     static let keychainService = "com.huy.upsnap.credentials"
     /// Repo GitHub của app (link "bởi huy" trong Cài đặt).
-    static let repoURL = URL(string: "https://github.com/")!
+    static let repoURL = URL(string: "https://github.com/haquanghuy2908/Upsnap-ipa")!
 
     static var defaults: UserDefaults {
         UserDefaults(suiteName: appGroup) ?? .standard

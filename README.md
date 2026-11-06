@@ -101,3 +101,7 @@ The app uses the same API as the UpSnap web UI:
 
 Your password is stored in the iOS Keychain. The session token is shared with the widgets through an App Group,
 and the app renews it each time you open it.
+
+## License
+
+[MIT](LICENSE). UpSnap itself is a separate project by [seriousm4x](https://github.com/seriousm4x/upsnap).
