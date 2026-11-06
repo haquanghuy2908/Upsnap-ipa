@@ -6,8 +6,6 @@
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
-		<key>NSAllowsLocalNetworking</key>
-		<true/>
 	</dict>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>UpSnap cần truy cập mạng nội bộ để kết nối tới máy chủ UpSnap trên NAS.</string>
