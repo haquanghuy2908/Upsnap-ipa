@@ -1,0 +1,2396 @@
+{
+  "sourceLanguage": "vi",
+  "strings": {
+    " · Được tạo máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · Can create devices"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · Được tạo máy"
+          }
+        }
+      }
+    },
+    "%@": {
+      "shouldTranslate": false
+    },
+    "%@ · %@": {
+      "shouldTranslate": false
+    },
+    "%lld giờ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld h"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld giờ"
+          }
+        }
+      }
+    },
+    "%lld ngày": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld d"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld ngày"
+          }
+        }
+      }
+    },
+    "%lld ph": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld min"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld ph"
+          }
+        }
+      }
+    },
+    "%lld/%lld đang bật": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld/%lld on"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld/%lld đang bật"
+          }
+        }
+      }
+    },
+    "+%lld máy khác": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%lld more"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%lld máy khác"
+          }
+        }
+      }
+    },
+    "0": {
+      "shouldTranslate": false
+    },
+    "0 23 * * *": {
+      "shouldTranslate": false
+    },
+    "0 8 * * 1-5": {
+      "shouldTranslate": false
+    },
+    "@every 1h": {
+      "shouldTranslate": false
+    },
+    "@every 3s": {
+      "shouldTranslate": false
+    },
+    "Bàn phím và một số nút hệ thống sẽ đổi ngôn ngữ sau khi mở lại app.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The keyboard and some system buttons switch language after you reopen the app."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bàn phím và một số nút hệ thống sẽ đổi ngôn ngữ sau khi mở lại app."
+          }
+        }
+      }
+    },
+    "Bật": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật"
+          }
+        }
+      }
+    },
+    "Bật ${device}": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn on ${device}"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật ${device}"
+          }
+        }
+      }
+    },
+    "Bật / Tắt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Power on / off"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật / Tắt"
+          }
+        }
+      }
+    },
+    "Bật máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wake"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật máy"
+          }
+        }
+      }
+    },
+    "Bật máy tính": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wake Computer"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật máy tính"
+          }
+        }
+      }
+    },
+    "Bật máy tính từ xa qua máy chủ UpSnap của bạn": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wake your computers remotely through your UpSnap server"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật máy tính từ xa qua máy chủ UpSnap của bạn"
+          }
+        }
+      }
+    },
+    "Bật/Tắt máy tính": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn Computer On/Off"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật/Tắt máy tính"
+          }
+        }
+      }
+    },
+    "Bật/tắt máy tính qua UpSnap. Tắt máy cần cấu hình Shutdown command.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn a computer on/off via UpSnap. Shutting down requires a shutdown command."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bật/tắt máy tính qua UpSnap. Tắt máy cần cấu hình Shutdown command."
+          }
+        }
+      }
+    },
+    "Chi tiết log": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log Details"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chi tiết log"
+          }
+        }
+      }
+    },
+    "Chu kỳ ping (cron)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ping interval (cron)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chu kỳ ping (cron)"
+          }
+        }
+      }
+    },
+    "Chu kỳ theo dõi IP (cron)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IP tracking interval (cron)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chu kỳ theo dõi IP (cron)"
+          }
+        }
+      }
+    },
+    "Chưa chọn máy tính. Nhấn giữ nút trong Control Center để chọn.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No computer selected. Long-press the control in Control Center to choose one."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chưa chọn máy tính. Nhấn giữ nút trong Control Center để chọn."
+          }
+        }
+      }
+    },
+    "Chưa có máy nào": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No Devices"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chưa có máy nào"
+          }
+        }
+      }
+    },
+    "Chưa có người dùng": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No Users"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chưa có người dùng"
+          }
+        }
+      }
+    },
+    "Chưa có thiết bị": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No devices"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chưa có thiết bị"
+          }
+        }
+      }
+    },
+    "Chưa đăng nhập. Hãy mở app UpSnap để đăng nhập.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not signed in. Open the UpSnap app to sign in."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chưa đăng nhập. Hãy mở app UpSnap để đăng nhập."
+          }
+        }
+      }
+    },
+    "Chạm vào người dùng để phân quyền từng thiết bị. Vuốt trái để xoá.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap a user to set per-device permissions. Swipe left to delete."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chạm vào người dùng để phân quyền từng thiết bị. Vuốt trái để xoá."
+          }
+        }
+      }
+    },
+    "Chạm vào nút vừa thêm để chọn máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap the new control to choose a computer"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chạm vào nút vừa thêm để chọn máy"
+          }
+        }
+      }
+    },
+    "Chạm để chọn máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap to choose"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chạm để chọn máy"
+          }
+        }
+      }
+    },
+    "Chỉ log UpSnap": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UpSnap logs only"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chỉ log UpSnap"
+          }
+        }
+      }
+    },
+    "Chọn hết": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select all"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chọn hết"
+          }
+        }
+      }
+    },
+    "Chọn máy tính": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose Computer"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chọn máy tính"
+          }
+        }
+      }
+    },
+    "Chọn máy tính hiển thị trên widget.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose the computer shown in the widget."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chọn máy tính hiển thị trên widget."
+          }
+        }
+      }
+    },
+    "Chờ & xác nhận": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timeouts & confirmation"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chờ & xác nhận"
+          }
+        }
+      }
+    },
+    "Cron bật máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wake cron"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cron bật máy"
+          }
+        }
+      }
+    },
+    "Cron tắt máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shutdown cron"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cron tắt máy"
+          }
+        }
+      }
+    },
+    "Cài đặt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cài đặt"
+          }
+        }
+      }
+    },
+    "Cài đặt nâng cao trên web": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Advanced settings on the web"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cài đặt nâng cao trên web"
+          }
+        }
+      }
+    },
+    "Công tắc máy tính": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Computer Switch"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Công tắc máy tính"
+          }
+        }
+      }
+    },
+    "Cú pháp cron: phút giờ ngày tháng thứ. Ví dụ \"0 8 * * 1-5\" = 8:00 thứ 2–6.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cron syntax: minute hour day month weekday. E.g. \"0 8 * * 1-5\" = 8:00 Mon–Fri."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cú pháp cron: phút giờ ngày tháng thứ. Ví dụ \"0 8 * * 1-5\" = 8:00 thứ 2–6."
+          }
+        }
+      }
+    },
+    "Debug": {
+      "shouldTranslate": false
+    },
+    "Dữ liệu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dữ liệu"
+          }
+        }
+      }
+    },
+    "Email hoặc username": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email or username"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email hoặc username"
+          }
+        }
+      }
+    },
+    "Error": {
+      "shouldTranslate": false
+    },
+    "Giao diện": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appearance"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giao diện"
+          }
+        }
+      }
+    },
+    "Giao diện web": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Web interface"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Giao diện web"
+          }
+        }
+      }
+    },
+    "Gửi Wake-on-LAN qua UpSnap.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Wake-on-LAN via UpSnap."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gửi Wake-on-LAN qua UpSnap."
+          }
+        }
+      }
+    },
+    "Gửi Wake-on-LAN qua UpSnap. Màu nút cho biết máy đang bật hay tắt.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Wake-on-LAN via UpSnap. The icon shows whether the computer is on."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gửi Wake-on-LAN qua UpSnap. Màu nút cho biết máy đang bật hay tắt."
+          }
+        }
+      }
+    },
+    "Gửi lệnh Wake-on-LAN tới máy tính qua UpSnap.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send a Wake-on-LAN packet to the computer via UpSnap."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gửi lệnh Wake-on-LAN tới máy tính qua UpSnap."
+          }
+        }
+      }
+    },
+    "Gửi lệnh tắt máy qua UpSnap (cần cấu hình Shutdown command).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shut down the computer via UpSnap (requires a shutdown command)."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gửi lệnh tắt máy qua UpSnap (cần cấu hình Shutdown command)."
+          }
+        }
+      }
+    },
+    "Huỷ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huỷ"
+          }
+        }
+      }
+    },
+    "Hẹn giờ bật máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scheduled wake"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hẹn giờ bật máy"
+          }
+        }
+      }
+    },
+    "Hẹn giờ tắt máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scheduled shutdown"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hẹn giờ tắt máy"
+          }
+        }
+      }
+    },
+    "Hỏi lại trước khi bật": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm before waking"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hỏi lại trước khi bật"
+          }
+        }
+      }
+    },
+    "Hỏi lại trước khi tắt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm before shutdown"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hỏi lại trước khi tắt"
+          }
+        }
+      }
+    },
+    "Info": {
+      "shouldTranslate": false
+    },
+    "Không có log": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No Logs"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không có log"
+          }
+        }
+      }
+    },
+    "Không rõ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Không rõ"
+          }
+        }
+      }
+    },
+    "Khởi động lại": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reboot"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Khởi động lại"
+          }
+        }
+      }
+    },
+    "Lazy ping": {
+      "shouldTranslate": false
+    },
+    "Lazy ping: chỉ ping thiết bị khi có người đang mở UpSnap.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lazy ping: only ping devices while someone has UpSnap open."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lazy ping: chỉ ping thiết bị khi có người đang mở UpSnap."
+          }
+        }
+      }
+    },
+    "Liên kết": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liên kết"
+          }
+        }
+      }
+    },
+    "Lưu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lưu"
+          }
+        }
+      }
+    },
+    "Lệnh bật máy (tuỳ chọn)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wake command (optional)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lệnh bật máy (tuỳ chọn)"
+          }
+        }
+      }
+    },
+    "Lệnh chạy trên máy chủ UpSnap (NAS). Cần lệnh tắt máy để dùng Tắt máy / Khởi động lại.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commands run on the UpSnap server (NAS). A shutdown command is required for Shut Down / Reboot."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lệnh chạy trên máy chủ UpSnap (NAS). Cần lệnh tắt máy để dùng Tắt máy / Khởi động lại."
+          }
+        }
+      }
+    },
+    "Lệnh ping (tuỳ chọn)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ping command (optional)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lệnh ping (tuỳ chọn)"
+          }
+        }
+      }
+    },
+    "Lệnh tuỳ chỉnh": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Custom commands"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lệnh tuỳ chỉnh"
+          }
+        }
+      }
+    },
+    "Lệnh tắt máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shutdown command"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lệnh tắt máy"
+          }
+        }
+      }
+    },
+    "Lịch hẹn giờ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schedule"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lịch hẹn giờ"
+          }
+        }
+      }
+    },
+    "Lỗi %lld: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Error %lld: %@"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lỗi %lld: %@"
+          }
+        }
+      }
+    },
+    "Máy chủ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Máy chủ"
+          }
+        }
+      }
+    },
+    "Máy chủ UpSnap": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UpSnap server"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Máy chủ UpSnap"
+          }
+        }
+      }
+    },
+    "Máy tính": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Computer"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Máy tính"
+          }
+        }
+      }
+    },
+    "Mô tả": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Description"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mô tả"
+          }
+        }
+      }
+    },
+    "Mất kết nối": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Offline"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mất kết nối"
+          }
+        }
+      }
+    },
+    "Mật khẩu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Password"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mật khẩu"
+          }
+        }
+      }
+    },
+    "Mật khẩu (tối thiểu 8 ký tự)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Password (at least 8 characters)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mật khẩu (tối thiểu 8 ký tự)"
+          }
+        }
+      }
+    },
+    "Mặc định dùng Wake-on-LAN": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defaults to Wake-on-LAN"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mặc định dùng Wake-on-LAN"
+          }
+        }
+      }
+    },
+    "Mặc định dùng ping": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defaults to ping"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mặc định dùng ping"
+          }
+        }
+      }
+    },
+    "Mẹo: thêm nút bật máy vào Control Center — mở Control Center › nhấn giữ › Thêm điều khiển › tìm \"UpSnap\".": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tip: add a wake button to Control Center — open Control Center › long-press › Add a Control › search \"UpSnap\"."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mẹo: thêm nút bật máy vào Control Center — mở Control Center › nhấn giữ › Thêm điều khiển › tìm \"UpSnap\"."
+          }
+        }
+      }
+    },
+    "Mở app UpSnap để đăng nhập": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open UpSnap to sign in"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mở app UpSnap để đăng nhập"
+          }
+        }
+      }
+    },
+    "Mở giao diện web": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open web interface"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mở giao diện web"
+          }
+        }
+      }
+    },
+    "Mở liên kết": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open link"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mở liên kết"
+          }
+        }
+      }
+    },
+    "Mức độ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Level"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mức độ"
+          }
+        }
+      }
+    },
+    "Netmask": {
+      "shouldTranslate": false
+    },
+    "Ngôn ngữ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Language"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ngôn ngữ"
+          }
+        }
+      }
+    },
+    "Người dùng": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Users"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Người dùng"
+          }
+        }
+      }
+    },
+    "Người dùng mới": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New User"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Người dùng mới"
+          }
+        }
+      }
+    },
+    "Ngủ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sleep"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ngủ"
+          }
+        }
+      }
+    },
+    "Nhấn + để tạo người dùng mới.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap + to create a user."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nhấn + để tạo người dùng mới."
+          }
+        }
+      }
+    },
+    "Nhấn giữ vùng trống › \"Thêm điều khiển\"": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Long-press an empty area › \"Add a Control\""
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nhấn giữ vùng trống › \"Thêm điều khiển\""
+          }
+        }
+      }
+    },
+    "Nhấn giữ › Sửa tiện ích để chọn máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Long-press › Edit Widget to choose a computer"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nhấn giữ › Sửa tiện ích để chọn máy"
+          }
+        }
+      }
+    },
+    "Nhật ký": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Logs"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nhật ký"
+          }
+        }
+      }
+    },
+    "Phiên đăng nhập đã hết hạn. Hãy mở app UpSnap.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your session has expired. Open the UpSnap app."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Phiên đăng nhập đã hết hạn. Hãy mở app UpSnap."
+          }
+        }
+      }
+    },
+    "Phản hồi từ máy chủ không hợp lệ.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invalid response from the server."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Phản hồi từ máy chủ không hợp lệ."
+          }
+        }
+      }
+    },
+    "Ports, nhóm, Sleep-on-LAN, mật khẩu WoL… chỉnh trên giao diện web.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ports, groups, Sleep-on-LAN, WoL password… are edited in the web interface."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ports, nhóm, Sleep-on-LAN, mật khẩu WoL… chỉnh trên giao diện web."
+          }
+        }
+      }
+    },
+    "Quản trị viên": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Administrator"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quản trị viên"
+          }
+        }
+      }
+    },
+    "Sau khi tạo, chạm vào người dùng để cấp quyền cho từng thiết bị.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "After creating, tap the user to grant per-device permissions."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sau khi tạo, chạm vào người dùng để cấp quyền cho từng thiết bị."
+          }
+        }
+      }
+    },
+    "Sáng": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Light"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sáng"
+          }
+        }
+      }
+    },
+    "Sửa": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sửa"
+          }
+        }
+      }
+    },
+    "Thao tác này không thể hoàn tác.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This cannot be undone."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thao tác này không thể hoàn tác."
+          }
+        }
+      }
+    },
+    "Theo máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Theo máy"
+          }
+        }
+      }
+    },
+    "Thiết bị": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Devices"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thiết bị"
+          }
+        }
+      }
+    },
+    "Thêm": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thêm"
+          }
+        }
+      }
+    },
+    "Thêm máy trên giao diện web UpSnap, hoặc kiểm tra quyền của tài khoản.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add devices in the UpSnap web interface, or check your account permissions."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thêm máy trên giao diện web UpSnap, hoặc kiểm tra quyền của tài khoản."
+          }
+        }
+      }
+    },
+    "Thêm vào Control Center": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to Control Center"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thêm vào Control Center"
+          }
+        }
+      }
+    },
+    "Thông tin chung": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "General"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thông tin chung"
+          }
+        }
+      }
+    },
+    "Thời gian": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thời gian"
+          }
+        }
+      }
+    },
+    "Thời gian chờ bật (giây)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wake timeout (seconds)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thời gian chờ bật (giây)"
+          }
+        }
+      }
+    },
+    "Thời gian chờ tắt (giây)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shutdown timeout (seconds)"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thời gian chờ tắt (giây)"
+          }
+        }
+      }
+    },
+    "Tiêu đề website": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Website title"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiêu đề website"
+          }
+        }
+      }
+    },
+    "Trang chủ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Home"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trang chủ"
+          }
+        }
+      }
+    },
+    "Trạng thái một máy và nút bật nhanh.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One computer's status with a quick wake button."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trạng thái một máy và nút bật nhanh."
+          }
+        }
+      }
+    },
+    "Trạng thái tất cả máy và nút bật nhanh.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status of all computers with quick wake buttons."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trạng thái tất cả máy và nút bật nhanh."
+          }
+        }
+      }
+    },
+    "Tài khoản": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Account"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tài khoản"
+          }
+        }
+      }
+    },
+    "Tên": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tên"
+          }
+        }
+      }
+    },
+    "Tên đăng nhập": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Username"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tên đăng nhập"
+          }
+        }
+      }
+    },
+    "Tìm \"UpSnap\", chọn \"Bật máy tính\" hoặc \"Công tắc máy tính\"": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search \"UpSnap\" and pick \"Wake Computer\" or \"Computer Switch\""
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tìm \"UpSnap\", chọn \"Bật máy tính\" hoặc \"Công tắc máy tính\""
+          }
+        }
+      }
+    },
+    "Tìm trong log": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search logs"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tìm trong log"
+          }
+        }
+      }
+    },
+    "Tạo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tạo"
+          }
+        }
+      }
+    },
+    "Tất cả": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tất cả"
+          }
+        }
+      }
+    },
+    "Tắt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Off"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tắt"
+          }
+        }
+      }
+    },
+    "Tắt ${device}": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shut down ${device}"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tắt ${device}"
+          }
+        }
+      }
+    },
+    "Tắt máy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shut Down"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tắt máy"
+          }
+        }
+      }
+    },
+    "Tắt máy tính": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shut Down Computer"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tắt máy tính"
+          }
+        }
+      }
+    },
+    "Tối": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dark"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tối"
+          }
+        }
+      }
+    },
+    "UpSnap": {
+      "shouldTranslate": false
+    },
+    "UpSnap cho iOS %@ bởi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UpSnap for iOS %@ by"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "UpSnap cho iOS %@ bởi"
+          }
+        }
+      }
+    },
+    "Vai trò": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Role"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vai trò"
+          }
+        }
+      }
+    },
+    "Vuốt xuống từ góc phải trên để mở Control Center": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Swipe down from the top-right corner to open Control Center"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vuốt xuống từ góc phải trên để mở Control Center"
+          }
+        }
+      }
+    },
+    "Warn": {
+      "shouldTranslate": false
+    },
+    "Xem": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xem"
+          }
+        }
+      }
+    },
+    "Xem %lld/%lld · Bật/tắt %lld/%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View %lld/%lld · Power %lld/%lld"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xem %lld/%lld · Bật/tắt %lld/%lld"
+          }
+        }
+      }
+    },
+    "Xong": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xong"
+          }
+        }
+      }
+    },
+    "Xoá": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xoá"
+          }
+        }
+      }
+    },
+    "Xoá %@?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete %@?"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xoá %@?"
+          }
+        }
+      }
+    },
+    "Xoá người dùng %@?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete user %@?"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xoá người dùng %@?"
+          }
+        }
+      }
+    },
+    "Xoá thiết bị": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete Device"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Xoá thiết bị"
+          }
+        }
+      }
+    },
+    "http://192.168.1.10:8090": {
+      "shouldTranslate": false
+    },
+    "huy": {
+      "shouldTranslate": false
+    },
+    "net rpc shutdown -I 192.168.1.10 -U user%pass": {
+      "shouldTranslate": false
+    },
+    "vừa xong": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "just now"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "vừa xong"
+          }
+        }
+      }
+    },
+    "Đang bật": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đang bật"
+          }
+        }
+      }
+    },
+    "Đang tắt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Off"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đang tắt"
+          }
+        }
+      }
+    },
+    "Đang xử lý…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Working…"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đang xử lý…"
+          }
+        }
+      }
+    },
+    "Đã gửi lệnh bật %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sent wake command to %@."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đã gửi lệnh bật %@."
+          }
+        }
+      }
+    },
+    "Đã gửi lệnh tắt %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sent shutdown command to %@."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đã gửi lệnh tắt %@."
+          }
+        }
+      }
+    },
+    "Đã lưu cài đặt": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings saved"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đã lưu cài đặt"
+          }
+        }
+      }
+    },
+    "Đăng nhập": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign In"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đăng nhập"
+          }
+        }
+      }
+    },
+    "Đăng xuất": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign Out"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đăng xuất"
+          }
+        }
+      }
+    },
+    "Đăng xuất khỏi UpSnap?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign out of UpSnap?"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đăng xuất khỏi UpSnap?"
+          }
+        }
+      }
+    },
+    "Được tạo thiết bị mới": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Can create new devices"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Được tạo thiết bị mới"
+          }
+        }
+      }
+    },
+    "Địa chỉ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Address"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Địa chỉ"
+          }
+        }
+      }
+    },
+    "Địa chỉ IP": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IP address"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Địa chỉ IP"
+          }
+        }
+      }
+    },
+    "Địa chỉ MAC": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MAC address"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Địa chỉ MAC"
+          }
+        }
+      }
+    },
+    "Địa chỉ bạn dùng để mở UpSnap trên trình duyệt (IP NAS + port, hoặc tên miền).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The address you use to open UpSnap in a browser (NAS IP + port, or a domain)."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Địa chỉ bạn dùng để mở UpSnap trên trình duyệt (IP NAS + port, hoặc tên miền)."
+          }
+        }
+      }
+    },
+    "Địa chỉ máy chủ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server address"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Địa chỉ máy chủ"
+          }
+        }
+      }
+    },
+    "Địa chỉ máy chủ không hợp lệ.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invalid server address."
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Địa chỉ máy chủ không hợp lệ."
+          }
+        }
+      }
+    },
+    "Đổi trạng thái %@ · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status changed %@ · %@"
+          }
+        },
+        "vi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Đổi trạng thái %@ · %@"
+          }
+        }
+      }
+    },
+    "· +%lld": {
+      "shouldTranslate": false
+    }
+  },
+  "version": "1.0"
+}

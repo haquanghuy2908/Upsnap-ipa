@@ -1,0 +1,11 @@
+# Sản phẩm build (file IPA, DerivedData)
+build/
+DerivedData/
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# macOS
+.DS_Store
